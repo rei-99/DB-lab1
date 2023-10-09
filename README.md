@@ -7,7 +7,9 @@
 ## 小组分工
 
 陈歆睿	B-tree & R-tree
+
 谢作星	hash & gist
+
 李远淳	gin & brin
 
 陈品烨	ParametersTuning
