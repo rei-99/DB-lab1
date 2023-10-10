@@ -10,9 +10,9 @@
 
 陈歆睿	B-tree & R-tree
 
-谢作星	hash & gist
+谢作星	gin & brin 
 
-李远淳	gin & brin
+李远淳	hash & gist
 
 陈品烨	ParametersTuning
 
